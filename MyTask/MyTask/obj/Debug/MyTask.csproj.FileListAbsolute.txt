@@ -1,0 +1,164 @@
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\MyTask.dll.config
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\MyTask.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\MyTask.pdb
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\csc.exe
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\csc.exe.config
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\csc.rsp
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\csi.exe
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\csi.exe.config
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\csi.rsp
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\System.AppContext.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\System.Console.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\System.IO.Compression.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\System.Net.Http.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\System.ValueTuple.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\vbc.exe
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\vbc.exe.config
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\vbc.rsp
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\VBCSCompiler.exe
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\Antlr3.Runtime.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\EntityFramework.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\EntityFramework.SqlServer.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\Newtonsoft.Json.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\System.Web.Helpers.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\System.Web.Mvc.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\System.Web.Optimization.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\System.Web.Razor.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\System.Web.WebPages.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\System.Web.WebPages.Razor.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\WebGrease.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\EntityFramework.xml
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\EntityFramework.SqlServer.xml
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\System.Web.Helpers.xml
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\System.Web.Mvc.xml
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\System.Web.Optimization.xml
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\System.Web.Razor.xml
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\System.Web.WebPages.xml
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\System.Web.WebPages.Razor.xml
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\Newtonsoft.Json.xml
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\Antlr3.Runtime.pdb
+C:\Users\Abanob\source\repos\MyTask\MyTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Abanob\source\repos\MyTask\MyTask\obj\Debug\MyTask.csprojAssemblyReference.cache
+C:\Users\Abanob\source\repos\MyTask\MyTask\obj\Debug\MyTask.csproj.CoreCompileInputs.cache
+C:\Users\Abanob\source\repos\MyTask\MyTask\obj\Debug\MyTask.csproj.CopyComplete
+C:\Users\Abanob\source\repos\MyTask\MyTask\obj\Debug\MyTask.dll
+C:\Users\Abanob\source\repos\MyTask\MyTask\obj\Debug\MyTask.pdb
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\MyTask.dll.config
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\MyTask.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\MyTask.pdb
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\csc.exe
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\csc.exe.config
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\csc.rsp
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\csi.exe
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\csi.exe.config
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\csi.rsp
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\System.AppContext.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\System.Console.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\System.IO.Compression.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\System.Net.Http.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\System.ValueTuple.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\vbc.exe
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\vbc.exe.config
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\vbc.rsp
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\VBCSCompiler.exe
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\Antlr3.Runtime.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\EntityFramework.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\EntityFramework.SqlServer.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\Newtonsoft.Json.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\System.Web.Helpers.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\System.Web.Mvc.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\System.Web.Optimization.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\System.Web.Razor.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\System.Web.WebPages.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\System.Web.WebPages.Razor.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\WebGrease.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\EntityFramework.xml
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\EntityFramework.SqlServer.xml
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\System.Web.Helpers.xml
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\System.Web.Mvc.xml
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\System.Web.Optimization.xml
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\System.Web.Razor.xml
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\System.Web.WebPages.xml
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\System.Web.WebPages.Razor.xml
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\Newtonsoft.Json.xml
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\Antlr3.Runtime.pdb
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\obj\Debug\MyTask.csprojResolveAssemblyReference.cache
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\obj\Debug\MyTask.dll
+C:\Users\SourcesNet\Downloads\Abanob_Hanna_Task\Task Source Code\MyTask\MyTask\obj\Debug\MyTask.pdb

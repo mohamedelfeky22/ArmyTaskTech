@@ -1,0 +1,56 @@
+﻿@model IEnumerable<MyTask.Models.Student>
+@{
+    ViewBag.Title = "Index";
+}
+@Html.ActionLink("Create new Student", "Create", null, new { @class = "btn btn-info" })
+    <div class="container px-3">
+        <h2> Students</h2>
+        <table class="table text-center table-bordered table-hover">
+            <thead class="text-center">
+                <tr class="info">
+                    <th class="text-center">
+                        Student Name
+                    </th>
+                    <th class="text-center">
+                         Birth Date
+                    </th>
+                    <th class="text-center">
+                        Governorate
+                    </th>
+                    <th class="text-center">
+                        Nighborhood
+                    </th>
+                    <th class="text-center">
+                        Field
+                    </th>
+                    <th class="text-center"> Operation </th>
+                </tr>
+            </thead>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @item.Name
+                    </td>
+                    <td>
+                        @item.BirthDate.ToString("dd/MM/yyyy")
+                    </td>
+                    <td>
+                        @item.Governorate.Name
+                    </td>
+                    <td>
+                         @item.Neighborhood.Name
+                    </td>
+                    <td>
+                        @item.Field.Name
+                    </td>
+                    <td>
+                        <button class="btn btn-warning">@Html.ActionLink("Edit", "Edit", new { id = item.ID })</button>
+                        <button class="btn btn-danger">@Html.ActionLink("Delete", "Delete", new { id = item.ID })</button>
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </div>
+

@@ -1,0 +1,93 @@
+﻿@model MyTask.Models.Student
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2 class="mb-3">Edit Student</h2>
+
+
+@using (Html.BeginForm())
+{
+
+
+    <div class="form-horizontal">
+
+        <div class="form-group">
+            <div class="col-md-2 text-center">
+                <label>Student Name</label>
+            </div>
+            <div class="col-md-10">
+                @Html.TextBoxFor(m => m.Name, new { @class = "form-control" } )
+                @Html.ValidationMessageFor(m => m.Name, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-2 text-center">
+                <label>Birth Date</label>
+            </div>
+            <div class="col-md-10">
+                @*<input class="form-control" name="Birthdate" type="date" id="date" value="@Model.BirthDate" />*@
+                @Html.TextBoxFor(m=>m.BirthDate, "{0:yyyy-MM-dd}", new { @class = "form-control", type = "date"})
+                @Html.ValidationMessageFor(m => m.BirthDate, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+           <div class="col-md-2 text-center">
+               <label>Governorate</label>
+           </div>
+           <div class="col-md-10">
+               @Html.DropDownList("GovernorateId", null, new { @class = "form-control" , name = "Gov" })
+               @Html.ValidationMessageFor(m => m.GovernorateId, "", new { @class = "text-danger" })
+           </div>
+        </div>
+
+        <div class="form-group">
+          <div class="col-md-2 text-center">
+              <label>Neighborhood</label>
+          </div>
+          <div class="col-md-10">
+              @Html.DropDownList("NeighborhoodId", null ,  new { @class = "form-control" })
+              @Html.ValidationMessageFor(m => m.NeighborhoodId, "", new { @class = "text-danger" })
+          </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-2 text-center">
+                <label>Field</label>
+            </div>
+            <div class="col-md-8">
+                @Html.DropDownListFor(m=>m.FieldId,null ,new { @class = "form-control" })
+                @Html.ValidationMessageFor(m => m.FieldId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <button type="submit" class="btn btn-success">Update</button>
+                @Html.ActionLink("Back", "Index", null, new { @class = "btn btn-info" })
+            </div>
+        </div>
+
+    </div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script>
+        $(document).ready(function () {
+            $("#GovernorateId").change(function () {
+                $("#NeighborhoodId").empty();
+                $.get("/Student/GetNeighborhoodList", { GovernorateId: $("#GovernorateId").val() }, function (data)
+                {
+                        $.each(data, function (index, row) {
+                            $("#NeighborhoodId").append("<option value='"+row.ID+"'>"+row.Name+"</option>")
+                        });
+                });
+
+            })
+        });
+    </script>
+}
